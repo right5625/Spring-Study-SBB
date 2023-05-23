@@ -3,8 +3,8 @@ package com.mysite.sbb;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-import com.mysite.sbb.Entity.Answer;
-import com.mysite.sbb.Entity.Question;
+import com.mysite.sbb.Domain.Answer;
+import com.mysite.sbb.Domain.Question;
 import com.mysite.sbb.Repository.QuestionRepository;
 import jakarta.transaction.Transactional;
 import org.junit.jupiter.api.Test;

@@ -1,6 +1,6 @@
 package com.mysite.sbb.Repository;
 
-import com.mysite.sbb.Entity.Question;
+import com.mysite.sbb.Domain.Question;
 import org.springframework.data.jpa.repository.JpaRepository;
 import java.util.List;
 
